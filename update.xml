@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="gb2312"?> 
+<?xml version="1.0" encoding="UTF-8"?> 
 <product> 
  <version>1.0.0</version> 
- <description>开票能手</description> 
+ <description>寮�绁ㄨ兘鎵�</description> 
  <filelist count="4" sourcepath="./update/"> 
   <item name="City.xml" size=""> 
    <value /> 
