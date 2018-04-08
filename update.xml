@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <product> 
- <version>1.0.1</version> 
+ <version>1.0.0</version> 
  <description>开票能手</description> 
  <filelist count="4" sourcepath="./update/"> 
   <item name="City.xml" size=""> 
